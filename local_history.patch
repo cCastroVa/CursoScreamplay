@@ -1,0 +1,17 @@
+Index: src/test/java/stepdefinitions/ChoucairAcademyStepDefinitions.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/stepdefinitions/ChoucairAcademyStepDefinitions.java b/src/test/java/stepdefinitions/ChoucairAcademyStepDefinitions.java
+--- a/src/test/java/stepdefinitions/ChoucairAcademyStepDefinitions.java	(date 1663260910158)
++++ b/src/test/java/stepdefinitions/ChoucairAcademyStepDefinitions.java	
+@@ -17,7 +17,7 @@
+ 
+     @Given("^than brandon wants to learn automation at the academy Choyucair$")
+     public void thanBrandonWantsToLearnAutomationAtTheAcademyChoyucair() {
+-        OnStage.theActorCalled("Brandon").wasAbleTo(OpenUp.thePage()), (Login.OnThePage());
++        OnStage.theActorCalled("Brandon").wasAbleTo(OpenUp.thePage());
+     }
+ 
+ 

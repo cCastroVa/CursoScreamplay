@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Academy Choucair" skipped="0" tests="1" time="26.07" timestamp="2022-09-26 03:12:15"><testcase name="Search for a automation course"><error message="Superclass has no null constructors but no arguments were given" type="java.lang.IllegalArgumentException">Superclass has no null constructors but no arguments were given</error><system-err>Superclass has no null constructors but no arguments were given&#13;
+tasks.Search.the(Search.java:18)&#13;
+stepdefinitions.ChoucairAcademyStepDefinitions.heSearchForTheCourseAutomatizacionBancolombiaOnTheChoucairAcademyPlatform(ChoucairAcademyStepDefinitions.java:28)&#13;
+✽.he search for the course Recursos Automatizacion Bancolombia on the choucair academy platform(src/test/resources/features/academy_choucair.feature:8)&#13;
+</system-err></testcase></testsuite>
